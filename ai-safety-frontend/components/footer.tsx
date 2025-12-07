@@ -4,9 +4,8 @@ export function Footer() {
       <div className="container mx-auto px-4 text-center">
         <div className="space-y-2 text-sm text-muted-foreground">
           <p>
-            <span className="font-semibold text-foreground">By Rendani</span> | Technical Writer @ Nexthink
+            Created by <span className="font-semibold text-foreground">Rendani</span>
           </p>
-          <p>Inspired by Saurabh Shintre's analysis</p>
           <p className="text-lg">Makwande 🌱</p>
         </div>
       </div>
